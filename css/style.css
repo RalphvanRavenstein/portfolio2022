@@ -9240,7 +9240,7 @@ section .cont_info span {
     position: absolute;
     padding-right: 15em;
     padding-left: 6em;
-    padding-top: 4em;
+    margin-top: -25em;
 }
 
 
